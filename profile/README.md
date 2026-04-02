@@ -4,9 +4,9 @@
 📊 Data Analytics & Machine Learning  
 💻 Python • R • SQL  
 
-I am a data analytics professional with experience working with **machine learning, statistical modelling, and data visualisation** to uncover insights from complex datasets.
+I am a data analytics professional with experience in **machine learning, statistical modelling, and data visualisation**, working with complex datasets to generate actionable insights.
 
-My work focuses on transforming data into **clear insights that support decision-making**, particularly in areas such as **health analytics, urban data, and applied machine learning**.
+My work focuses on transforming data into **clear, meaningful insights that support decision-making**, particularly in areas such as **health analytics, urban data, and applied machine learning**.
 
 ---
 
@@ -46,16 +46,36 @@ Random Forest • Deep Learning (CNN) • Logistic Regression • Model Evaluati
 
 # 📂 Featured Projects
 
+## 🏠 UK Housing Affordability Analysis & Forecasting
+
+End-to-end data analytics project analysing housing affordability trends across England and Wales (2002–2024), with **time-series forecasting and regional validation**.
+
+**Key work**
+- Data integration and preprocessing (ONS datasets)
+- Time-series modelling (Rolling Mean, ARIMA, Regression, Random Forest)
+- Model comparison and selection (best RMSE: Rolling Mean (2))
+- Regional forecasting with validation (holdout + walk-forward)
+- 5-year affordability forecast (2025–2029)
+
+**Key insights**
+- Affordability increased from ~5.1 (2002) to 8.05 (2024)
+- Forecast shows continued rise to ~8.43 by 2029
+- London shows highest volatility; North East most stable
+
+🔗 Repository  
+https://github.com/imeshaB/UKHousingAffordabilityAnalysis
+
+---
+
 ## 🧠 Breast Cancer Image Classification Using Deep Learning
 
 Deep learning model for classifying breast cancer images as **benign or malignant**.
 
 **Key methods**
-
-- Convolutional Neural Networks (CNN)
-- Image preprocessing
-- Model training and evaluation
-- Explainable AI techniques
+- Convolutional Neural Networks (CNN)  
+- Image preprocessing  
+- Model training and evaluation  
+- Explainable AI techniques  
 
 🔗 Repository  
 https://github.com/imeshaB/BreastCancerDeepLearningModel
@@ -64,31 +84,29 @@ https://github.com/imeshaB/BreastCancerDeepLearningModel
 
 ## 📊 Breast Cancer Exploratory Data Analysis
 
-Exploratory data analysis of the Breast Cancer dataset to identify **patterns and relationships between diagnostic features**.
+Exploratory analysis of the Breast Cancer dataset to identify **patterns and relationships between diagnostic features**.
 
 **Key work**
-
-- Data preprocessing
-- Statistical analysis
-- Feature distribution analysis
-- Correlation analysis
+- Data preprocessing  
+- Statistical analysis  
+- Feature distribution analysis  
+- Correlation analysis  
 
 🔗 Repository  
 https://github.com/imeshaB/Breast-Cancer-Exploratory-Data-Analysis-EDA-
 
 ---
 
-# 🚧 Upcoming Projects
+# 🚧 Upcoming Enhancements
 
-## 🏠 UK Housing Affordability Dashboard
+## 📊 UK Housing Affordability Dashboard
 
-Interactive **Tableau dashboard** analysing housing affordability trends across UK regions.
+Interactive **Tableau dashboard** built using project outputs.
 
-Focus areas:
-
-- Price-to-income ratio comparisons
-- Regional affordability patterns
-- Housing price trends
+**Focus areas**
+- Price-to-income ratio comparisons  
+- Regional affordability patterns  
+- Forecast visualisation (2025–2029)
 
 ---
 
@@ -96,7 +114,7 @@ Focus areas:
 
 Machine learning and spatial analysis project examining **greenspace accessibility and health deprivation across England**.
 
-This research project is currently **under academic publication preparation** and will be shared once the paper is published.
+This research project is currently **under academic publication preparation** and will be shared once published.
 
 ---
 
@@ -104,7 +122,7 @@ This research project is currently **under academic publication preparation** an
 
 - Urban data analytics  
 - Environmental and health data  
-- Machine learning applications for public policy  
+- Machine learning for public policy  
 - Spatial data analysis  
 
 ---
