@@ -1,135 +1,130 @@
-## Hi There, I'm Imesha Bandara 👋
+# Hi, I'm Imesha Bandara 👋
 
-🎓 MSc Data Science Graduate  
-📊 Data Analytics & Machine Learning  
-💻 Python • R • SQL  
+**MSc Data Science Graduate | Data Analyst | Python, SQL, R | Turning complex data into clear insights**
 
-I am a data analytics professional with experience in **machine learning, statistical modelling, and data visualisation**, working with complex datasets to generate actionable insights.
+I am a data analyst with experience in **data analysis, machine learning, statistical modelling, and visualisation**. I enjoy working with complex datasets to uncover patterns, build clear analytical workflows, and communicate findings in a way that supports decision-making.
 
-My work focuses on transforming data into **clear, meaningful insights that support decision-making**, particularly in areas such as **health analytics, urban data, and applied machine learning**.
-
----
-
-# 🛠 Technical Skills
-
-### Programming & Analytics
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+My portfolio focuses on projects in:
+- **health analytics**
+- **urban and housing data**
+- **machine learning and forecasting**
+- **data storytelling for non-technical audiences**
 
 ---
 
-### Machine Learning
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-DeepLearning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-Random Forest • Deep Learning (CNN) • Logistic Regression • Model Evaluation
-
----
-
-### Data Visualisation
-
-![Tableau](https://img.shields.io/badge/Tableau-Visualization-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-DataViz-11557c?style=for-the-badge)
+## 🔍 What I Bring
+- End-to-end analytical workflows: data cleaning, exploration, modelling, evaluation, and visualisation
+- Strong grounding in **Python, R, SQL, Tableau, and Jupyter**
+- Experience translating technical analysis into **clear business and policy insights**
+- Interest in **public sector, healthcare, and product analytics**
 
 ---
 
-### Tools
+## 🛠 Technical Skills
 
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-VersionControl-F05032?style=for-the-badge&logo=git&logoColor=white)
-![QGIS](https://img.shields.io/badge/QGIS-GIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+### Languages & Analytics
+- **Python**
+- **R**
+- **SQL**
+
+### Data Analysis & ML
+- Exploratory Data Analysis (EDA)
+- Statistical modelling
+- Time-series forecasting
+- Machine learning model evaluation
+- Feature importance and explainability
+
+### Visualisation & Tools
+- Tableau
+- Matplotlib
+- Jupyter Notebook
+- Git
+- QGIS
 
 ---
 
-# 📂 Featured Projects
+## 📂 Featured Projects
 
-## 🏠 UK Housing Affordability Analysis & Forecasting
+### 🏠 UK Housing Affordability Analysis
+End-to-end analytics project analysing housing affordability trends across England and Wales from **2002 to 2024**, with forecasting and regional validation.
 
-End-to-end data analytics project analysing housing affordability trends across England and Wales (2002–2024), with **time-series forecasting and regional validation**.
-
-**Key work**
-- Data integration and preprocessing (ONS datasets)
-- Time-series modelling (Rolling Mean, ARIMA, Regression, Random Forest)
-- Model comparison and selection (best RMSE: Rolling Mean (2))
-- Regional forecasting with validation (holdout + walk-forward)
-- 5-year affordability forecast (2025–2029)
+**What I did**
+- Cleaned and integrated ONS-based housing and earnings data
+- Built UK-level and regional affordability trend analyses
+- Compared forecasting approaches including baseline and time-series methods
+- Performed regional validation using holdout and walk-forward methods
+- Produced a **5-year affordability forecast**
 
 **Key insights**
-- Affordability increased from ~5.1 (2002) to 8.05 (2024)
-- Forecast shows continued rise to ~8.43 by 2029
-- London shows highest volatility; North East most stable
+- Affordability increased from **~5.1 in 2002 to 8.05 in 2024**
+- Forecast suggests affordability could reach **~8.43 by 2029**
+- London showed the greatest pressure and volatility, while the North East remained relatively more stable
 
-🔗 Repository  
-https://github.com/imeshaB/UKHousingAffordabilityAnalysis
+**Skills demonstrated**
+`Python` `Time Series Forecasting` `EDA` `Model Evaluation` `Data Visualisation` `Policy Insight`
 
----
-
-## 🧠 Breast Cancer Image Classification Using Deep Learning
-
-Deep learning model for classifying breast cancer images as **benign or malignant**.
-
-**Key methods**
-- Convolutional Neural Networks (CNN)  
-- Image preprocessing  
-- Model training and evaluation  
-- Explainable AI techniques  
-
-🔗 Repository  
-https://github.com/imeshaB/BreastCancerDeepLearningModel
+🔗 **Repository:** [UK Housing Affordability Analysis](https://github.com/imeshaB/UK-Housing-Affordability-Analysis)
 
 ---
 
-## 📊 Breast Cancer Exploratory Data Analysis
+### 🧬 Breast Cancer Image Classification Using Deep Learning
+Deep learning project focused on classifying breast cancer images as **benign or malignant**.
 
-Exploratory analysis of the Breast Cancer dataset to identify **patterns and relationships between diagnostic features**.
+**What I did**
+- Built and evaluated a CNN-based classification workflow
+- Applied image preprocessing and model training techniques
+- Used explainable AI approaches to support interpretation
 
-**Key work**
-- Data preprocessing  
-- Statistical analysis  
-- Feature distribution analysis  
-- Correlation analysis  
+**Skills demonstrated**
+`Python` `TensorFlow` `Deep Learning` `Computer Vision` `Explainable AI`
 
-🔗 Repository  
-https://github.com/imeshaB/Breast-Cancer-Exploratory-Data-Analysis-EDA-
-
----
-
-# 🚧 Upcoming Enhancements
-
-## 📊 UK Housing Affordability Dashboard
-
-Interactive **Tableau dashboard** built using project outputs.
-
-**Focus areas**
-- Price-to-income ratio comparisons  
-- Regional affordability patterns  
-- Forecast visualisation (2025–2029)
+🔗 **Repository:** [Breast Cancer Deep Learning Model](https://github.com/imeshaB/BreastCancerDeepLearningModel)
 
 ---
 
-## 🌳 Greenspace and Health Deprivation Analysis
+### 📊 Breast Cancer Exploratory Data Analysis
+Exploratory data analysis project focused on identifying patterns in diagnostic features associated with breast cancer outcomes.
 
-Machine learning and spatial analysis project examining **greenspace accessibility and health deprivation across England**.
+**What I did**
+- Cleaned and explored diagnostic feature data
+- Performed statistical and correlation analysis
+- Visualised patterns to support interpretation
 
-This research project is currently **under academic publication preparation** and will be shared once published.
+**Skills demonstrated**
+`Python` `EDA` `Statistical Analysis` `Data Visualisation`
 
----
-
-# 🔬 Research Interests
-
-- Urban data analytics  
-- Environmental and health data  
-- Machine learning for public policy  
-- Spatial data analysis  
+🔗 **Repository:** [Breast Cancer EDA](https://github.com/imeshaB/Breast-Cancer-Exploratory-Data-Analysis-EDA-)
 
 ---
 
-# 🤝 Connect With Me
+## 🚧 Current Focus
+I am currently strengthening my portfolio in:
+- Data analytics for decision-making
+- Dashboard development in Tableau
+- Forecasting and trend analysis
+- Public sector and healthcare-oriented analytics projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Imesha%20Bandara-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/imeshabandara/)
+---
 
-GitHub  
-https://github.com/imeshaB
+## 🌱 Upcoming Project
+### UK Housing Affordability Dashboard
+Interactive Tableau dashboard built from project outputs, focused on:
+- affordability trends over time
+- regional comparison
+- forecast visualisation
+- user-friendly insight communication
+
+---
+
+## 📌 Research Interests
+- Urban data analytics
+- Health and environmental data
+- Machine learning for public policy
+- Spatial and regional analysis
+
+---
+
+## 🤝 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/imeshabandara/)
+- 🌐 [Blog](https://imeshabandara.blogspot.com/)
+- 📧 Email: imeshabandara@gmail.com
