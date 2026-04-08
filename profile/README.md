@@ -1,130 +1,148 @@
 # Hi, I'm Imesha Bandara 👋
 
-**MSc Data Science Graduate | Data Analyst | Python, SQL, R | Turning complex data into clear insights**
+🎓 MSc Data Science Graduate  
+📊 Data Analytics & Machine Learning  
+💻 Python • R • SQL  
 
-I am a data analyst with experience in **data analysis, machine learning, statistical modelling, and visualisation**. I enjoy working with complex datasets to uncover patterns, build clear analytical workflows, and communicate findings in a way that supports decision-making.
-
-My portfolio focuses on projects in:
-- **health analytics**
-- **urban and housing data**
-- **machine learning and forecasting**
-- **data storytelling for non-technical audiences**
+I am a data analytics professional with experience working with **machine learning, statistical modelling, and data visualisation** to uncover insights from complex datasets.
 
 ---
 
-## 🔍 What I Bring
-- End-to-end analytical workflows: data cleaning, exploration, modelling, evaluation, and visualisation
-- Strong grounding in **Python, R, SQL, Tableau, and Jupyter**
-- Experience translating technical analysis into **clear business and policy insights**
-- Interest in **public sector, healthcare, and product analytics**
+## 📍 Currently
+Nottingham, UK — available immediately
+Open to Data Analyst and Data Science roles
+across public sector, finance, and analytics
 
 ---
 
-## 🛠 Technical Skills
+# 🛠 Technical Skills
 
-### Languages & Analytics
-- **Python**
-- **R**
-- **SQL**
+### Programming & Analytics
 
-### Data Analysis & ML
-- Exploratory Data Analysis (EDA)
-- Statistical modelling
-- Time-series forecasting
-- Machine learning model evaluation
-- Feature importance and explainability
-
-### Visualisation & Tools
-- Tableau
-- Matplotlib
-- Jupyter Notebook
-- Git
-- QGIS
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-## 📂 Featured Projects
+### Machine Learning
 
-### 🏠 UK Housing Affordability Analysis
-End-to-end analytics project analysing housing affordability trends across England and Wales from **2002 to 2024**, with forecasting and regional validation.
+![TensorFlow](https://img.shields.io/badge/TensorFlow-DeepLearning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-**What I did**
-- Cleaned and integrated ONS-based housing and earnings data
-- Built UK-level and regional affordability trend analyses
-- Compared forecasting approaches including baseline and time-series methods
-- Performed regional validation using holdout and walk-forward methods
-- Produced a **5-year affordability forecast**
+Random Forest • Deep Learning (CNN) • Logistic Regression • Model Evaluation
 
-**Key insights**
-- Affordability increased from **~5.1 in 2002 to 8.05 in 2024**
-- Forecast suggests affordability could reach **~8.43 by 2029**
-- London showed the greatest pressure and volatility, while the North East remained relatively more stable
+---
 
-**Skills demonstrated**
-`Python` `Time Series Forecasting` `EDA` `Model Evaluation` `Data Visualisation` `Policy Insight`
+### Data Visualisation
+
+![Tableau](https://img.shields.io/badge/Tableau-Visualization-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-DataViz-11557c?style=for-the-badge)
+
+---
+
+### Tools
+
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-VersionControl-F05032?style=for-the-badge&logo=git&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-GIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+
+---
+
+# 📂 Featured Projects
+
+---
+## 🏠 UK Housing Affordability: Trends, Regional Gaps & Forecast (2002–2029)
+
+End-to-end analytics project quantifying the structural deterioration of housing 
+affordability across **318 UK local authorities and 10 regions**, with validated 
+5-year regional forecasts and a production-grade Tableau dashboard.
+
+**The Problem**
+UK house prices have consistently outpaced earnings since 2002 — but aggregate 
+national figures mask pronounced regional inequality. This project quantifies 
+both the national trend and the regional divergence beneath it.
+
+**What I Did**
+- Cleaned and integrated multiple ONS datasets (7,255 rows, 318 local authorities)
+- Conducted regional time-series EDA with annotated trend decomposition
+- Compared 4 forecasting models under holdout and walk-forward validation
+- Generated validated 5-year regional forecasts (2025–2029)
+- Built a production Tableau dashboard with dynamic filters, LOD expressions, 
+  and an auto-updating insights narrative
+
+**Key Results**
+
+| Metric | Value |
+|---|---|
+| Affordability deterioration (2002–2024) | +57% (5.12x → 8.05x earnings) |
+| Forecast affordability (2029) | 8.43x earnings |
+| Best model RMSE | 0.51 (Rolling Mean, window=2) |
+| Walk-forward MAE | 0.4174 |
+| Walk-forward RMSE | 0.5437 |
+| Least affordable region (2024) | London — 12.39x earnings |
+| Most affordable region (2024) | North East — 4.79x earnings |
+
+**Skills Demonstrated**
+`Python` `Pandas` `Statsmodels` `Scikit-learn` `Time-Series Forecasting`
+`Walk-Forward Validation` `EDA` `Tableau` `LOD Expressions` `Data Storytelling`
 
 🔗 **Repository:** [UK Housing Affordability Analysis](https://github.com/imeshaB/UK-Housing-Affordability-Analysis)
 
 ---
 
-### 🧬 Breast Cancer Image Classification Using Deep Learning
-Deep learning project focused on classifying breast cancer images as **benign or malignant**.
+## 🧠 Breast Cancer Image Classification Using Deep Learning
 
-**What I did**
-- Built and evaluated a CNN-based classification workflow
-- Applied image preprocessing and model training techniques
-- Used explainable AI approaches to support interpretation
+Deep learning model for classifying breast cancer images as **benign or malignant**. Achieved 94.2% classification accuracy on held-out test set using CNN with XAI explainability layer
 
-**Skills demonstrated**
-`Python` `TensorFlow` `Deep Learning` `Computer Vision` `Explainable AI`
+**Key methods**
 
-🔗 **Repository:** [Breast Cancer Deep Learning Model](https://github.com/imeshaB/BreastCancerDeepLearningModel)
+- Convolutional Neural Networks (CNN)
+- Image preprocessing
+- Model training and evaluation
+- Explainable AI techniques
 
----
-
-### 📊 Breast Cancer Exploratory Data Analysis
-Exploratory data analysis project focused on identifying patterns in diagnostic features associated with breast cancer outcomes.
-
-**What I did**
-- Cleaned and explored diagnostic feature data
-- Performed statistical and correlation analysis
-- Visualised patterns to support interpretation
-
-**Skills demonstrated**
-`Python` `EDA` `Statistical Analysis` `Data Visualisation`
-
-🔗 **Repository:** [Breast Cancer EDA](https://github.com/imeshaB/Breast-Cancer-Exploratory-Data-Analysis-EDA-)
+🔗 **Repository:** [BreastCancerDeepLearningModel](https://github.com/imeshaB/BreastCancerDeepLearningModel)
 
 ---
 
-## 🚧 Current Focus
-I am currently strengthening my portfolio in:
-- Data analytics for decision-making
-- Dashboard development in Tableau
-- Forecasting and trend analysis
-- Public sector and healthcare-oriented analytics projects
+## 📊 Breast Cancer Exploratory Data Analysis
+
+Exploratory data analysis of the Breast Cancer dataset to identify **patterns and relationships between diagnostic features**.
+
+**Key work**
+
+- Data preprocessing
+- Statistical analysis
+- Feature distribution analysis
+- Correlation analysis
+
+🔗 **Repository:** [Breast-Cancer-Exploratory-Data-Analysis-EDA-](https://github.com/imeshaB/Breast-Cancer-Exploratory-Data-Analysis-EDA-)
 
 ---
 
-## 🌱 Upcoming Project
-### UK Housing Affordability Dashboard
-Interactive Tableau dashboard built from project outputs, focused on:
-- affordability trends over time
-- regional comparison
-- forecast visualisation
-- user-friendly insight communication
+## 🌿 Green Shift–Health Shift: Greenspace & Health Nexus
+Research project investigating the relationship between greenspace access and health deprivation across 96 English Local Authority Districts.
+
+**Methods:** Random Forest + SHAP, Spearman correlation, 
+QGIS spatial mapping, Ordinal LASSO (CV R²=0.806)
+
+
+`Python` `R` `QGIS` `Random Forest` `SHAP` `Spatial Analysis`
 
 ---
 
-## 📌 Research Interests
-- Urban data analytics
-- Health and environmental data
-- Machine learning for public policy
-- Spatial and regional analysis
+# 🔬 Research Interests
+
+- Urban data analytics  
+- Environmental and health data  
+- Machine learning applications for public policy  
+- Spatial data analysis  
 
 ---
 
-## 🤝 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/imeshabandara/)
-- 🌐 [Blog](https://imeshabandara.blogspot.com/)
-- 📧 Email: imeshabandara@gmail.com
+# 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Imesha%20Bandara-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/imeshabandara/)
+
+🔗 **GitHub:** [imeshaB](https://github.com/imeshaB)
